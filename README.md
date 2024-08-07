@@ -1,4 +1,4 @@
-**Pharmaceutical Supply Chain Analytics: Analyzing Raw material delivery performance**
+**Supply Chain Analytics: Analyzing Raw material delivery performance**
 
 **SITUATION:** Raw material delivery issue mitigation data is extracted from Devonway application, manually updated with new data and delivery performance is visualized in MS Excel. The visualizations are slow to load and limited in extracting insights
 
