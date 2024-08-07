@@ -51,7 +51,10 @@
 
 **NUMBER OF OPEN, CLOSED, INITIATED ALERTS:**
 ![image](https://github.com/user-attachments/assets/b50a3553-5808-422a-a618-fb6584203dac)
-**Insights extracted:** For second half od 2022 where most of the delivery issues happened, we can observe how many issues were initiated and closed every month. We can infer that we were closing issues at a higher rate than the rate at which new issues occured. 
+**Insights extracted:** For second half of 2022 where most of the delivery issues happened, we can observe how many issues were initiated and closed every month. We can infer that we were closing issues at a higher rate than the rate at which new issues occured.
+
+**RECOMMENDED ACTIONS:**
+From the insights, we can conclude that Thermofisher and Millipore Sigma are the suppliers whom we should collaborate to resolve the most occuring root cause which is capacity constraint from their end. Also, we should work with the supplier to make sure they have sufficient capability to expedite the order. Drug Substance Site of the company needs to be focused by ensuring we have sufficient alternate items numbers to be used in case of a delay.
 
 
 
