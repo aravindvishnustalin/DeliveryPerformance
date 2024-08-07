@@ -27,7 +27,7 @@
 
 **ROOT CAUSE ANALYSIS:**
 ![image](https://github.com/user-attachments/assets/9acd0593-d680-45a0-933f-48ed75e84f63)
-**Insights extracted:** The delivery issues caused by capacity constraint from supplier-end has decreased over time and is lowest during July 2023. Majority of it is sourced from Single Supplier. We have managed the majority of this cause by using alterate item numbers. Drug Substance site needs to be focused to resolve this cause.
+**Insights extracted:** The delivery issues caused by capacity constraint from supplier-end has decreased over time and is lowest during Jan 2023. Majority of it is sourced from Single Supplier. We have managed the majority of this cause by using alterate item numbers. Drug Substance site needs to be focused to resolve this cause.
 
 **SOURCING TYPE ANALYSIS:**
 ![image](https://github.com/user-attachments/assets/f63edbb6-4f5d-46cd-96da-b19921b6e514)
